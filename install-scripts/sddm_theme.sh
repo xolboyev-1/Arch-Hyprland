@@ -1,8 +1,8 @@
 #!/bin/bash
 # SDDM themes #
 
-source_theme="https://github.com/xolboyev-1/simple-sddm-2.git"
-theme_name="simple_sddm_2"
+source_theme="https://github.com/xolboyev-1/sequoia.git"
+theme_name="sequoia"
 
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
